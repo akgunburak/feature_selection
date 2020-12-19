@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May  4 22:08:12 2020
-
-@author: burak
-"""
-
 import numpy as np
 import pandas as pd
 import yfinance as yf
